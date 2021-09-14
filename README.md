@@ -3,7 +3,7 @@ Um bot do discord gratuito criado para fins educacionais.
 Seja Bem Vindo ao  **Professor** 
 # **Informações Úteis**
 * Bot criado em 27 de Outubro de 2020;
-* Atualmente na versão Alpha 1.3.0;
+* Atualmente na versão Beta 2.0.0
 * Feito usando a biblioteca discord.js;
 * Atualmente ele possui 7 comandos
 * Bot criado assistindo as aulas do Paulo Ricardo(PR)e Gustavo Guanabara(Curso em Vídeo).
